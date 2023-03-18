@@ -1,0 +1,116 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	text-align: center;
+	background: url("https://user-images.githubusercontent.com/99448276/223282825-e07a7b64-54a2-4cce-bbf6-fb89d9a99723.svg");
+	background-color: hsl(225, 100%, 94%);
+	color: hsl(218, 44%, 22%);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+	background-position: 0% 0%;
+	background-size: 100% 50%;
+}
+.firstparagraph {
+	font-size: 15px;
+	font-family: "Outfit", sans-serif;
+	color: hsl(220, 15%, 55%);
+	font-weight: 400;
+	margin: 5px;
+	line-height: 1.7;
+}
+.peryear {
+	color: gray;
+	position: relative;
+	top: -55px;
+	margin-right: 45px;
+}
+h1 {
+	font-family: "Outfit", sans-serif;
+	font-weight: 900;
+	font-size: 20px;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+.whiteblock {
+	width: 330px;
+	height: 580px;
+	background-color: hsl(0, 0%, 100%);
+	border-radius: 5%;
+	background-repeat: no-repeat;
+	background-color: white;
+}
+.greyblock {
+	width: 275px;
+	height: 80px;
+	margin: auto;
+	border-radius: 5%;
+	background-repeat: no-repeat;
+	background-color: hsl(225, 100%, 98%);
+	margin-top: 14px;
+}
+.dancing {
+	border-radius: 10px 10px 0 0;
+	width: 330px;
+	height: 160px;
+	margin-bottom: 34px;
+}
+.musicnote {
+	width: 50px;
+	height: 50px;
+	margin-right: 190px;
+	top: 20px;
+	margin-bottom: 3px;
+	position: relative;
+}
+.sr-only {
+	position: absolute;
+	left: -10000px;
+	width: 1px;
+	height: 1px;
+	top: auto;
+	overflow: hidden;
+}
+button {
+	height: 0;
+	width: 275px;
+	background-color: hsl(245, 75%, 52%);
+	color: white;
+	padding: 15px 25px 25px 15px;
+	margin-top: 25px;
+	border-radius: 10px;
+	font-weight: bold;
+	border-style: none;
+	cursor: pointer;
+}
+h2.black {
+	color: black;
+	font-size: 15px;
+	font-family: "Outfit", sans-serif;
+	top: -47px;
+	margin-left: 60px;
+	position: relative;
+}
+.change {
+	margin-left: 30px;
+	position: relative;
+	top: 10px;
+}
+.cancel {
+	font-weight: 900;
+	text-decoration: none;
+	color: gray;
+	margin-right: 0;
+	position: relative;
+	top: 8px;
+}
+.attribution {
+	font-size: 15px;
+	text-align: center;
+	margin-top: 50px;
+}
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
