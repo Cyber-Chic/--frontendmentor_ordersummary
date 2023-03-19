@@ -28,8 +28,8 @@ To create an order summary component and have it look as close to the original d
 
 ### Links
 
-- Solution URL: [My Official Solution on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
-- Live Site URL: [My Live Order Summary Component Website](https://cyber-chic.github.io/frontendmentor_qrcode/)
+- Solution URL: [My Official Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-using-flexbox-ftaFK_sMW6)
+- Live Site URL: [My Live Order Summary Component Website](https://cyber-chic.github.io/--frontendmentor_ordersummary/)
 
 ## My process
 
