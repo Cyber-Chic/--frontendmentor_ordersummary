@@ -24,7 +24,7 @@ To create an order summary component and have it look as close to the original d
 
 ### Screenshot
 
-![Screenshot 2023-03-18 at 23-52-27 Frontend Mentor Order summary card](https://user-images.githubusercontent.com/99448276/226152739-202de342-3f1b-4de0-bf01-f4bbfe2ab0e0.png)
+![Screenshot 2023-03-19 at 14-21-55 Frontend Mentor Order summary card](https://user-images.githubusercontent.com/99448276/226198684-f944811a-3529-492c-9aaa-c50078cde366.png)
 
 ### Links
 
