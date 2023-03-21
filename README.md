@@ -7,7 +7,7 @@ Frontend Mentor requires the use of front end skills to create websites and solv
 
 -   [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -22,7 +22,7 @@ This project contains my order summary component design replication.  It is the 
 
 To create an order summary component and have it look as close to the original design as possible.  Users must be able to see the hover states for elements that are interactive.
 
-### Screenshot
+### Screenshots
 
 ![Screenshot 2023-03-19 at 14-21-55 Frontend Mentor Order summary card](https://user-images.githubusercontent.com/99448276/226198684-f944811a-3529-492c-9aaa-c50078cde366.png)
 
