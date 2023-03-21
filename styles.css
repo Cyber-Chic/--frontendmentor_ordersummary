@@ -13,6 +13,23 @@ body {
 	background-position: 0% 0%;
 	background-size: 100% 50%;
 }
+@media(max-width: 800px){
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	text-align: center;
+	background: url("https://stackblitz.com/files/web-platform-ftmyn2/github/Cyber-Chic/--frontendmentor_ordersummary/main/images/pattern-background-mobile.svg");
+	background-color: hsl(225, 100%, 94%);
+	color: hsl(218, 44%, 22%);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+	background-position: 0% 0%;
+	background-size: 100% 50%;
+}
+}
 .firstparagraph {
 	font-size: 15px;
 	font-family: "Outfit", sans-serif;
