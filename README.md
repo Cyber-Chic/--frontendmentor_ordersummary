@@ -26,6 +26,8 @@ To create an order summary component and have it look as close to the original d
 
 ![Screenshot 2023-03-19 at 14-21-55 Frontend Mentor Order summary card](https://user-images.githubusercontent.com/99448276/226198684-f944811a-3529-492c-9aaa-c50078cde366.png)
 
+![Screenshot 2023-03-21 at 03-45-01 Frontend Mentor Order summary card](https://user-images.githubusercontent.com/99448276/226544928-428209c3-141c-4345-ada0-1c6659a43f26.png)
+
 ### Links
 
 - Solution URL: [My Official Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-using-flexbox-ftaFK_sMW6)
