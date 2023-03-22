@@ -31,12 +31,14 @@ body {
 }
 }
 .firstparagraph {
-	font-size: 15px;
+	font-size: 16px;
 	font-family: "Outfit", sans-serif;
 	color: hsl(220, 15%, 55%);
 	font-weight: 400;
 	margin: 5px;
 	line-height: 1.7;
+	inline-size: 290px;
+	margin-left: 4.5rem;
 }
 .peryear {
 	color: gray;
@@ -101,6 +103,8 @@ button {
 	font-weight: bold;
 	border-style: none;
 	cursor: pointer;
+	text-shadow: 2px 2px black;
+	box-shadow:  10px 10px 10px lightblue;
 }
 h2.black {
 	color: black;
