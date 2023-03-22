@@ -13,22 +13,22 @@ body {
 	background-position: 0% 0%;
 	background-size: 100% 50%;
 }
-@media(max-width: 375px){
-body {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	min-height: 100vh;
-	text-align: center;
-	background: url("https://stackblitz.com/files/web-platform-ftmyn2/github/Cyber-Chic/--frontendmentor_ordersummary/main/images/pattern-background-mobile.svg");
-	background-color: hsl(225, 100%, 94%);
-	color: hsl(218, 44%, 22%);
-	background-repeat: no-repeat;
-	background-size: 100%;
-	background-attachment: fixed;
-	background-position: 0% 0%;
-	background-size: 100% 50%;
-}
+@media (max-width: 375px) {
+	body {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		min-height: 100vh;
+		text-align: center;
+		background: url("https://stackblitz.com/files/web-platform-ftmyn2/github/Cyber-Chic/--frontendmentor_ordersummary/main/images/pattern-background-mobile.svg");
+		background-color: hsl(225, 100%, 94%);
+		color: hsl(218, 44%, 22%);
+		background-repeat: no-repeat;
+		background-size: 100%;
+		background-attachment: fixed;
+		background-position: 0% 0%;
+		background-size: 100% 50%;
+	}
 }
 .firstparagraph {
 	font-size: 16px;
@@ -54,8 +54,8 @@ h1 {
 	margin-bottom: 1rem;
 }
 .whiteblock {
-	max-width:432px;
-	height: 37rem;
+	max-width: 432px;
+	height: 38rem;
 	background-color: hsl(0, 0%, 100%);
 	border-radius: 5%;
 	background-repeat: no-repeat;
@@ -68,7 +68,7 @@ h1 {
 	border-radius: 5%;
 	background-repeat: no-repeat;
 	background-color: hsl(225, 100%, 98%);
-	margin-top: 14px;
+	margin-top: 0;
 }
 .dancing {
 	border-radius: 10px 10px 0 0;
@@ -104,7 +104,7 @@ button {
 	border-style: none;
 	cursor: pointer;
 	text-shadow: 2px 2px black;
-	box-shadow:  10px 10px 10px lightblue;
+	box-shadow: 10px 10px 10px lightblue;
 }
 h2.black {
 	color: black;
@@ -133,8 +133,8 @@ h2.black {
 	margin-top: 50px;
 }
 a:hover {
-  background-color: hsl(225, 100%, 94%);
+	background-color: hsl(225, 100%, 94%);
 }
 button:hover {
-  background-color: darkblue;
+	background-color: darkblue;
 }
