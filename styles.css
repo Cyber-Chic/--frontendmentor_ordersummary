@@ -1,140 +1,188 @@
 body {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	min-height: 100vh;
-	text-align: center;
-	background: url("https://stackblitz.com/files/web-platform-ftmyn2/github/Cyber-Chic/--frontendmentor_ordersummary/main/images/pattern-background-desktop.svg");
-	background-color: hsl(225, 100%, 94%);
-	color: hsl(218, 44%, 22%);
-	background-repeat: no-repeat;
-	background-size: 100%;
-	background-attachment: fixed;
-	background-position: 0% 0%;
-	background-size: 100% 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  background: url("https://stackblitz.com/files/web-platform-ftmyn2/github/Cyber-Chic/--frontendmentor_ordersummary/main/images/pattern-background-desktop.svg");
+  background-color: hsl(225, 100%, 94%);
+  color: hsl(218, 44%, 22%);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+  background-position: 0% 0%;
+  background-size: 100% 50%;
 }
-@media (max-width: 375px) {
-	body {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		min-height: 100vh;
-		text-align: center;
-		background: url("https://stackblitz.com/files/web-platform-ftmyn2/github/Cyber-Chic/--frontendmentor_ordersummary/main/images/pattern-background-mobile.svg");
-		background-color: hsl(225, 100%, 94%);
-		color: hsl(218, 44%, 22%);
-		background-repeat: no-repeat;
-		background-size: 100%;
-		background-attachment: fixed;
-		background-position: 0% 0%;
-		background-size: 100% 35%;
-	}
-}
+
 .firstparagraph {
-	font-size: 16px;
-	font-family: "Outfit", sans-serif;
-	color: hsl(220, 15%, 55%);
-	font-weight: 400;
-	margin: 5px;
-	line-height: 1.7;
-	inline-size: 290px;
-	margin-left: 4.5rem;
+  font-size: 16px;
+  font-family: "Outfit", sans-serif;
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  margin: 1.5rem;
+  line-height: 1.7;
+  inline-size: 19rem;
+  margin-left: 4.5rem;
 }
 .peryear {
-	color: gray;
-	position: relative;
-	top: -55px;
-	margin-right: 3rem;
+  color: gray;
+  position: relative;
+  top: -3.4rem;
+  margin-right: 3rem;
 }
 h1 {
-	font-family: "Outfit", sans-serif;
-	font-weight: 900;
-	font-size: 20px;
-	margin-top: 0;
-	margin-bottom: 1rem;
+  font-family: "Outfit", sans-serif;
+  font-weight: 900;
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 .whiteblock {
-	max-width: 432px;
-	height: 38rem;
-	background-color: hsl(0, 0%, 100%);
-	border-radius: 5%;
-	background-repeat: no-repeat;
-	background-color: white;
+  max-width: 432px;
+  height: 38rem;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 10%;
+  background-repeat: no-repeat;
+  background-color: white;
 }
 .greyblock {
-	width: 20rem;
-	height: 5rem;
-	margin: auto;
-	border-radius: 5%;
-	background-repeat: no-repeat;
-	background-color: hsl(225, 100%, 98%);
-	margin-top: 0;
+  width: 20rem;
+  height: 5rem;
+  margin: auto;
+  border-radius: 5%;
+  background-repeat: no-repeat;
+  background-color: hsl(225, 100%, 98%);
+  margin-top: 0;
 }
 .dancing {
-	border-radius: 10px 10px 0 0;
-	width: 27rem;
-	height: 10rem;
-	margin-bottom: 2rem;
+  border-radius: 50px 50px 0 0;
+  width: 27rem;
+  height: 10rem;
+  margin-bottom: 2rem;
 }
 .musicnote {
-	width: 3.3rem;
-	height: 3rem;
-	margin-right: 15rem;
-	top: 1rem;
-	margin-bottom: 0;
-	position: relative;
+  width: 3.3rem;
+  height: 3rem;
+  margin-right: 15rem;
+  top: 1rem;
+  margin-bottom: 0;
+  position: relative;
 }
 .sr-only {
-	position: absolute;
-	left: -10000px;
-	width: 1px;
-	height: 1px;
-	top: auto;
-	overflow: hidden;
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  top: auto;
+  overflow: hidden;
 }
 button {
-	height: 2.9rem;
-	width: 20rem;
-	background-color: hsl(245, 75%, 52%);
-	color: white;
-	padding: 15px 25px 25px 15px;
-	margin-top: 30px;
-	border-radius: 10px;
-	font-weight: bold;
-	border-style: none;
-	cursor: pointer;
-	text-shadow: 2px 2px black;
-	box-shadow: 10px 10px 10px lightblue;
+  height: 2.9rem;
+  width: 20rem;
+  background-color: hsl(245, 75%, 52%);
+  color: white;
+  padding: 15px 25px 25px 15px;
+  margin-top: 1.9rem;
+  border-radius: 10px;
+  font-weight: bold;
+  border-style: none;
+  cursor: pointer;
+  text-shadow: 2px 2px black;
+  box-shadow: 10px 10px 10px lightblue;
 }
 h2.black {
-	color: black;
-	font-size: 15px;
-	font-family: "Outfit", sans-serif;
-	top: -47px;
-	margin-left: 60px;
-	position: relative;
+  color: black;
+  font-size: 15px;
+  font-family: "Outfit", sans-serif;
+  top: -3rem;
+  margin-left: 3.7rem;
+  position: relative;
 }
 .change {
-	margin-left: 30px;
-	position: relative;
-	top: 10px;
+  margin-left: 2rem;
+  position: relative;
+  top: 0.7rem;
 }
 .cancel {
-	font-weight: 900;
-	text-decoration: none;
-	color: gray;
-	margin-right: 0;
-	position: relative;
-	top: 8px;
+  font-weight: 900;
+  text-decoration: none;
+  color: gray;
+  margin-right: 0;
+  position: relative;
+  top: 0.5rem;
 }
 .attribution {
-	font-size: 15px;
-	text-align: center;
-	margin-top: 50px;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 50px;
 }
 a:hover {
-	background-color: hsl(225, 100%, 94%);
+  background-color: hsl(225, 100%, 94%);
 }
 button:hover {
-	background-color: darkblue;
+  background-color: darkblue;
+}
+@media (max-width: 500px) {
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    background: url("https://stackblitz.com/files/web-platform-ftmyn2/github/Cyber-Chic/--frontendmentor_ordersummary/main/images/pattern-background-mobile.svg");
+    background-color: hsl(225, 100%, 94%);
+    color: hsl(218, 44%, 22%);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: 0% 0%;
+    background-size: 100% 35%;
+  }
+  .dancing {
+    border-radius: 50px 50px 0 0;
+    width: 20rem;
+    height: 10rem;
+    margin-bottom: 2rem;
+  }
+  .whiteblock {
+    max-width: 322px;
+    height: 38rem;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15%;
+    background-repeat: no-repeat;
+    background-color: white;
+  }
+  .firstparagraph {
+    font-size: 14px;
+    font-family: "Outfit", sans-serif;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    margin: 2rem;
+    line-height: 1.7;
+    inline-size: 290px;
+    margin-left: 1.5rem;
+  }
+  button {
+    height: 2.9rem;
+    width: 15rem;
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    padding: 15px 25px 25px 15px;
+    margin-top: 30px;
+    border-radius: 10px;
+    font-weight: bold;
+    border-style: none;
+    cursor: pointer;
+    text-shadow: 2px 2px black;
+    box-shadow: 10px 10px 10px lightblue;
+  }
+  .greyblock {
+    width: 17rem;
+    height: 5rem;
+    margin: auto;
+    border-radius: 5%;
+    background-repeat: no-repeat;
+    background-color: hsl(225, 100%, 98%);
+    margin-top: 0;
+  }
 }
