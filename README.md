@@ -56,3 +56,7 @@ I learned how to add and format background images, use the CSS .class selector t
 - Website - [Angie's Poetry Blog](https://angies.poetry.blog/)
 - Frontend Mentor - [@Cyber-Chic](https://www.frontendmentor.io/profile/Cyber-Chic)
 - Github - [@Cyber-Chic](https://github.com/Cyber-Chic)
+
+# Sponsors
+- Thank you for reading about my coding journey!😁
+- You can sponsor me if you like my work & want to show support.💖
