@@ -63,9 +63,9 @@ I learned how to add and format background images, use the CSS .class selector t
 *Bridging the gap between digital code and physical reality.*
 
 **EXPLORE THE NETWORK:**
-*   **🔭 RESEARCH:** [NASA Exoplanet Watch Participation & Data](https://github.com/Cyber-Chic/nasa)
+*   **🔭 RESEARCH:** [NASA Exoplanet Watch Data](https://github.com/Cyber-Chic/nasa)
 *   **🧪 ARCHIVE:** [The Moore Archive | Physical Artifact Hunt](https://emaze.me/tma)
-*   **💻 CODE:** [View My Full Repository Catalog](https://github.com/Cyber-Chic)
+*   **📡 TERMINAL:** [Cyber-Chic Home & Protocols](https://github.com/Cyber-Chic)
 
 **[ ☕ MISSION SUSTENANCE ]**
 Sponsorships support my full creative ecosystem—from public-facing research and citizen science to the physical art drops of The Moore Archive.  
@@ -73,4 +73,5 @@ Sponsorships support my full creative ecosystem—from public-facing research an
 
 ---
 **ANGELA N. MOORE // SIGNAL STATUS: 🟢 NOMINAL**
+
 
