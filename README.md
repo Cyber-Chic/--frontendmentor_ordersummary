@@ -1,4 +1,4 @@
-# Frontend Mentor - Order Summary Component Solution
+# 💻 Frontend Mentor: Order Summary // THE MOORE SIGNAL
 
 This is a solution to the [order summary component challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) hosted on Frontend Mentor.
 Frontend Mentor requires the use of front end skills to create websites and solve real world coding challenges.
@@ -51,12 +51,6 @@ I learned how to add and format background images, use the CSS .class selector t
 - [Prettier · Opinionated Code Formatter](https://prettier.io/) - This helped me format my code.
 - [StackBlitz](https://stackblitz.com/) - This is where I created my project.
 
-## Author
-
-- Website - [Angie's Poetry Blog](https://angies.poetry.blog/)
-- Frontend Mentor - [@Cyber-Chic](https://www.frontendmentor.io/profile/Cyber-Chic)
-- Github - [@Cyber-Chic](https://github.com/Cyber-Chic)
-
 # Sponsors
 ### [ 🛰️ PROJECT SUBSYSTEM ]
 **Part of the [Moore Archive](https://emaze.me/tma) Creative Ecosystem.**  
@@ -73,5 +67,6 @@ Sponsorships support my full creative ecosystem—from public-facing research an
 
 ---
 **ANGELA N. MOORE // SIGNAL STATUS: 🟢 NOMINAL**
+
 
 
