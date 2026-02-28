@@ -1,4 +1,4 @@
-# 💻 Frontend Mentor - Order Summary // THE MOORE SIGNAL
+# 💻 Frontend Mentor Order Summary // THE MOORE SIGNAL
 
 This is a solution to the [order summary component challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) hosted on Frontend Mentor.
 Frontend Mentor requires the use of front end skills to create websites and solve real world coding challenges.
@@ -67,6 +67,7 @@ Sponsorships support my full creative ecosystem—from public-facing research an
 
 ---
 **ANGELA N. MOORE // SIGNAL STATUS: 🟢 NOMINAL**
+
 
 
 
