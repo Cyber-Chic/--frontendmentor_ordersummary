@@ -51,22 +51,12 @@ I learned how to add and format background images, use the CSS .class selector t
 - [Prettier · Opinionated Code Formatter](https://prettier.io/) - This helped me format my code.
 - [StackBlitz](https://stackblitz.com/) - This is where I created my project.
 
-# Sponsors
-### [ 🛰️ PROJECT SUBSYSTEM ]
-**Part of the [Moore Archive](https://emaze.me/tma) Creative Ecosystem.**  
-*Bridging the gap between digital code and physical reality.*
+### [ 🛰️ ARCHIVE_LOG ]
+**The Moore Signal Archive LLC // Foundational Technical Studies**  
 
-**EXPLORE THE NETWORK:**
-*   **🔭 RESEARCH:** [NASA Exoplanet Watch Data](https://github.com/Cyber-Chic/nasa)
-*   **🧪 ARCHIVE:** [The Moore Archive | Physical Artifact Hunt](https://emaze.me/tma)
-*   **📡 TERMINAL:** [Cyber-Chic Home & Protocols](https://github.com/Cyber-Chic)
+> *“I want to live as though I traveled back in time... To this very moment.”*
 
-**[ ☕ MISSION SUSTENANCE ]**
-Sponsorships support my full creative ecosystem—from public-facing research and citizen science to the physical art drops of The Moore Archive.  
-[**➡️ SUPPORT THE JOURNEY VIA PAYPAL**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE)
-
----
-**ANGELA N. MOORE // SIGNAL STATUS: 🟢 NOMINAL**
+**SIGNAL STATUS: 🟢 NOMINAL**  
 
 
 
